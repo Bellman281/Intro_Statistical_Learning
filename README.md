@@ -1,7 +1,6 @@
-### Intro_Statistical_Learning
-Introduction to Statistical Learning 
+# Introduction to Statistical Learning 
 
-# Chapter 1
+## Chapter 1
     Supervised learning
     Unsupervised learning
     Semi-Supervised learning
