@@ -1,5 +1,15 @@
 # Introduction to Statistical Learning 
 
+Registration Form for cohort 1: 
+
+Notes about the course:
+
+Instructor : Omid Safarzadeh:
+
+LinkedIn: https://www.linkedin.com/in/omidsafarzadeh/
+
+IG : @deepdatascientists
+
 ## Chapter 1
     Supervised learning
     Unsupervised learning
