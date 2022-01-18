@@ -4,6 +4,13 @@ Registration Form for cohort 1: https://forms.gle/dK1GbUctZcG6rMXA8
 
 Notes about the course:
 
+The course Text books:
+1. An Introduction to Statistical Learning:
+https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370
+2. Machine Learning: A Probabilistic Perspective
+ https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020
+
+
 Instructor : Omid Safarzadeh:
 
 LinkedIn: https://www.linkedin.com/in/omidsafarzadeh/
