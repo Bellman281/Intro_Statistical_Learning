@@ -98,10 +98,10 @@ IG : @deepdatascientists
    
    
   ### Chapter 10: Neural Networks
-   Back Propagation
-   CNN
-   RNN
-   LSTM
+        Back Propagation
+        CNN
+        RNN
+        LSTM
    
 ### Chapter 11 :Transformers
       Auto-Encoders
