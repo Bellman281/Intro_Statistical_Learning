@@ -52,7 +52,7 @@ IG : @deepdatascientists
            MAP properties
         Bayesian linear regression
  
-### Chapter 5 : Unsupervised Learning
+### Chapter 5 : Unsupervised Learning, PCA
      Unsupervised learning 
      Principal component analysis (PCA)
    
