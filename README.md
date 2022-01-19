@@ -77,7 +77,8 @@ IG : @deepdatascientists
 ### Chapter 7
      Expectation Maximization Algorithm
 
-### Chapter 8
+### Chapter 8 
+    Clustering
     K means
     Gaussian Mixture Models
     
