@@ -59,9 +59,8 @@ IG : @deepdatascientists
  
 ### Chapter 5
 
-   Unsupervised learning 
-   
-   Principal component analysis (PCA)
+     Unsupervised learning 
+     Principal component analysis (PCA)
    
 ### Chapter 6 
    logistic regression
