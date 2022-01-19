@@ -76,3 +76,23 @@ IG : @deepdatascientists
     K means
     Gaussian Mixture Models
     
+ ### Chapter 9: Activation and Loss functions 
+    Activation Functions
+        Exponential Linear Unit (ELU)
+        Exponential activation function
+        Gaussian error linear unit (GELU)
+        Hard sigmoid
+        Rectified Linear Unit (ReLU)
+        Scaled Exponential Linear Unit (SELU)
+        Sigmoid
+        Softplus
+        Softsign
+        Swish
+        Hyperbolic Tangent
+    Loss Functions
+       Mean Absolute Error (MAE)
+       Mean Absolute Percentage Error (MAPE)
+       Mean Squared Error (MSE)
+       Mean Squared Error (MSE)
+       Indicator function
+    
