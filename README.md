@@ -95,4 +95,15 @@ IG : @deepdatascientists
        Mean Squared Error (MSE)
        Mean Squared Error (MSE)
        Indicator function
-    
+   
+   
+  ### Chapter 10: Neural Networks
+   Back Propagation
+   CNN
+   RNN
+   LSTM
+   
+### Chapter 11 :Transformers
+      Auto-Encoders
+      Attention Layers
+      Transformer
