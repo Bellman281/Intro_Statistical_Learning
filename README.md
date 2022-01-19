@@ -17,7 +17,7 @@ LinkedIn: https://www.linkedin.com/in/omidsafarzadeh/
 
 IG : @deepdatascientists
 
-## Chapter 1
+## Chapter 1 : Learning Algorithms
     Supervised learning
     Unsupervised learning
     Semi-Supervised learning
@@ -26,7 +26,7 @@ IG : @deepdatascientists
     Graph Representation Learning
     
     
-## Chapter 2
+## Chapter 2 : Regression, Cross-Validation
     Regression
     The least squares approach
     Multiple linear regression
@@ -35,7 +35,7 @@ IG : @deepdatascientists
     Leave-one-out cross-validation
     k-fold cross validation
 
-## Chapter 3
+## Chapter 3 : Logistcs , Ridge, Lasso Regression
     logistic regression
         MLE for simple logistic regression 
     Regularization
@@ -43,7 +43,7 @@ IG : @deepdatascientists
     Bias-variance tradeoff
     Pros and cons of ridge regression
     
- ## Chapter 4 
+ ## Chapter 4  : Bayesian Estimation, MAP
         Likelihood and posterior distribution
            Computing the posterior
            Maximum likelihood estimation (MLE)
@@ -52,17 +52,17 @@ IG : @deepdatascientists
            MAP properties
         Bayesian linear regression
  
-### Chapter 5
+### Chapter 5 : Unsupervised Learning
      Unsupervised learning 
      Principal component analysis (PCA)
    
 #### Chapter 6
 
       
-### Chapter 7
+### Chapter 7 : EM Algorithm
      Expectation Maximization Algorithm
 
-### Chapter 8 
+### Chapter 8 : Clustering
     Clustering
     K means
     Gaussian Mixture Models
@@ -88,7 +88,7 @@ IG : @deepdatascientists
        Indicator function
    
    
-  ### Chapter 10: Neural Networks
+  ### Chapter 10: Neural Networks, RNN, LSTM, CNN
         Gradient Decent
         Back Propagation
         CNN
