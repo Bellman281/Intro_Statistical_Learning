@@ -37,7 +37,6 @@ IG : @deepdatascientists
 
 ## Chapter 3
     Regularization
-    Two method for regularization
     Ridge regression
     Scale invariance
     Bias-variance tradeoff
