@@ -58,7 +58,9 @@ IG : @deepdatascientists
         Bayesian linear regression
  
 ### Chapter 5
+
    Unsupervised learning 
+   
    Principal component analysis (PCA)
    
 ### Chapter 6 
