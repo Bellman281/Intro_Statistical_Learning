@@ -63,7 +63,7 @@ IG : @deepdatascientists
    
 ### Chapter 6 
    logistic regression
-       MLE for simple logistic regression
+      MLE for simple logistic regression
    Multiple logistic regression
       MLE for multiple logistic regression
    l1 & l2 regularized logistic regression
