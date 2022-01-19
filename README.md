@@ -36,10 +36,12 @@ IG : @deepdatascientists
     k-fold cross validation
 
 ## Chapter 3
+    logistic regression
+        MLE for simple logistic regression 
     Regularization
     Ridge regression
     Bias-variance tradeoff
-    Ridge regression Solution
+    Pros and cons of ridge regression
     
  ## Chapter 4 
         Likelihood and posterior distribution
@@ -54,13 +56,8 @@ IG : @deepdatascientists
      Unsupervised learning 
      Principal component analysis (PCA)
    
-### Chapter 6 
-      logistic regression
-         MLE for simple logistic regression
-      Multiple logistic regression
-         MLE for multiple logistic regression
-      l1 & l2 regularized logistic regression
-      Logistic regression multiple classes
+#### Chapter 6
+
       
 ### Chapter 7
      Expectation Maximization Algorithm
