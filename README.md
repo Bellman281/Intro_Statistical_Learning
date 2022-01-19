@@ -32,7 +32,7 @@ IG : @deepdatascientists
 ## Chapter 2
     Regression
     The least squares approach
-    (Multiple) linear regression
+    Multiple linear regression
     Bias-variance tradeoff
     Validation
     Leave-one-out cross-validation
@@ -41,14 +41,10 @@ IG : @deepdatascientists
 ## Chapter 3
     Regularization
     Ridge regression
-    Scale invariance
     Bias-variance tradeoff
-    How to solve ridge regression?
-    Pros and cons of ridge regression
-    Geometric interpretation
+    Ridge regression Solution
     
  ## Chapter 4 
- 
         Likelihood and posterior distribution
         Computing the posterior
         Maximum likelihood estimation (MLE)
@@ -56,23 +52,21 @@ IG : @deepdatascientists
         Posterior mean
         MAP properties
         Ridge regression from a Bayesian perspective
-        Lasso from a Bayesian perspective
+        Lasso regression from a Bayesian perspective
         Comparison
         Bayesian linear regression
  
 ### Chapter 5
-
      Unsupervised learning 
      Principal component analysis (PCA)
    
 ### Chapter 6 
-
       logistic regression
          MLE for simple logistic regression
       Multiple logistic regression
          MLE for multiple logistic regression
       l1 & l2 regularized logistic regression
-      Logistic regression for K>2 classes
+      Logistic regression multiple classes
       
 ### Chapter 7
      Expectation Maximization Algorithm
