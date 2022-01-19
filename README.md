@@ -1,5 +1,8 @@
 # Introduction to Statistical Learning 
 
+The course content is not finalized yet Working on it.... :)
+
+
 Registration Form for cohort 1: https://forms.gle/dK1GbUctZcG6rMXA8
 
 Notes about the course:
