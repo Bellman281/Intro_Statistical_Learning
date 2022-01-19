@@ -52,25 +52,25 @@ IG : @deepdatascientists
            MAP properties
         Bayesian linear regression
  
-### Chapter 5 : Unsupervised Learning, PCA
+## Chapter 5 : Unsupervised Learning, PCA
      Unsupervised learning 
      Principal component analysis (PCA)
    
-#### Chapter 6 :  Recommendation Systems
+## Chapter 6 :  Recommendation Systems
        Collaborative Filtering
        Matrix Factorization
        Funk SVD
        Alternating Least Square
       
-### Chapter 7 : EM Algorithm
+## Chapter 7 : EM Algorithm
      Expectation Maximization Algorithm
 
-### Chapter 8 : Clustering
+## Chapter 8 : Clustering
     Clustering
     K means
     Gaussian Mixture Models
     
- ### Chapter 9: Activation and Loss functions 
+ ## Chapter 9: Activation and Loss functions 
     Activation Functions
         Exponential Linear Unit (ELU)
         Exponential activation function
@@ -91,14 +91,14 @@ IG : @deepdatascientists
        Indicator function
    
    
-  ### Chapter 10: Neural Networks, RNN, LSTM, CNN
+  ## Chapter 10: Neural Networks, RNN, LSTM, CNN
         Gradient Decent
         Back Propagation
         CNN
         RNN
         LSTM
    
-### Chapter 11: Transformers        
+## Chapter 11: Transformers        
        Sequence to sequence models
        Attention Mechanism
           Bottleneck Problem
@@ -116,5 +116,5 @@ IG : @deepdatascientists
            BERT Input
            BERT Output
       
-### Chapter 12: Feature Extraction 
+## Chapter 12: Feature Extraction 
        Deep & Cross Network Structure
