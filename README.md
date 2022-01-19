@@ -73,3 +73,11 @@ IG : @deepdatascientists
          MLE for multiple logistic regression
       l1 & l2 regularized logistic regression
       Logistic regression for K>2 classes
+      
+### Chapter 7
+     Expectation Maximization Algorithm
+
+### Chapter 8
+    K means
+    Gaussian Mixture Models
+    
