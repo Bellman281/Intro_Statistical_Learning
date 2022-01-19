@@ -43,14 +43,11 @@ IG : @deepdatascientists
     
  ## Chapter 4 
         Likelihood and posterior distribution
-        Computing the posterior
-        Maximum likelihood estimation (MLE)
+           Computing the posterior
+           Maximum likelihood estimation (MLE)
         Maximum a posteriori (MAP) estimation
-        Posterior mean
-        MAP properties
-        Ridge regression from a Bayesian perspective
-        Lasso regression from a Bayesian perspective
-        Comparison
+           Posterior mean
+           MAP properties
         Bayesian linear regression
  
 ### Chapter 5
