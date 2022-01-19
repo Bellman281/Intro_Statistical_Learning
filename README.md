@@ -103,10 +103,23 @@ IG : @deepdatascientists
         RNN
         LSTM
    
-### Chapter 11: Transformers
-      Auto-Encoders
-      Attention Layers
-      Transformer
+### Chapter 11: Transformers        
+       Sequence to sequence models
+       Attention Mechanism
+          Bottleneck Problem
+          Attention Layer
+          Categories of Attention Mechanism
+       Transformers
+           Self attention mechanism
+           Multi-Head attention mechanism
+           Encoder Architecture
+           Decoder Architecture
+           Full Architecture
+       Positional Encoding
+       BERT
+           Language Masked Learning
+           BERT Input
+           BERT Output
       
 ### Chapter 12: Feature Extraction 
        Deep & Cross Network Structure
