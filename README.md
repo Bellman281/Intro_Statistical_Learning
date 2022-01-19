@@ -56,8 +56,11 @@ IG : @deepdatascientists
      Unsupervised learning 
      Principal component analysis (PCA)
    
-#### Chapter 6
-
+#### Chapter 6 :  Recommendation Systems
+       Collaborative Filtering
+       Matrix Factorization
+       Funk SVD
+       Alternating Least Square
       
 ### Chapter 7 : EM Algorithm
      Expectation Maximization Algorithm
