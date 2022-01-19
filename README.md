@@ -98,6 +98,7 @@ IG : @deepdatascientists
    
    
   ### Chapter 10: Neural Networks
+        Gradient Decent
         Back Propagation
         CNN
         RNN
