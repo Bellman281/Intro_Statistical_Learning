@@ -58,5 +58,13 @@ IG : @deepdatascientists
         Bayesian linear regression
  
 ### Chapter 5
-   Unsupervised learning
+   Unsupervised learning 
    Principal component analysis (PCA)
+   
+### Chapter 6 
+   logistic regression
+       MLE for simple logistic regression
+   Multiple logistic regression
+      MLE for multiple logistic regression
+   l1 & l2 regularized logistic regression
+   Logistic regression for K>2 classes
