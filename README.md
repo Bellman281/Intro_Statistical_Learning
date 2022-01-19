@@ -103,10 +103,10 @@ IG : @deepdatascientists
         RNN
         LSTM
    
-### Chapter 11 :Transformers
+### Chapter 11: Transformers
       Auto-Encoders
       Attention Layers
       Transformer
       
-### Feature Extraction 
+### Chapter 12: Feature Extraction 
        Deep & Cross Network Structure
