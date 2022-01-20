@@ -117,4 +117,14 @@ IG : @deepdatascientists
            BERT Output
       
 ## Chapter 12: Feature Extraction 
-       Deep & Cross Network Structure
+     Motivation
+     Automatic FE with TensorFlow
+     Deep & Cross Network Structure
+     Pre Processing
+     Cross Network
+        Deep NN
+        Deep & Cross Network V1
+        Deep & Cross Network V2
+        Model construction
+     Model understanding for interpreting cross features
+     Model Performance
