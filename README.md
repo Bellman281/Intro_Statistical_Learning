@@ -35,7 +35,7 @@ IG : @deepdatascientists
     Leave-one-out cross-validation
     k-fold cross validation
 
-## Chapter 3 : Logistcs , Ridge, Lasso Regression
+## Chapter 3 : Logistic , Ridge, Lasso Regression
     logistic regression
         MLE for simple logistic regression 
     Regularization
