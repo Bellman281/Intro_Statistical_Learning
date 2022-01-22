@@ -116,7 +116,7 @@ IG : @deepdatascientists
            BERT Input
            BERT Output
       
-## Chapter 12: Feature Extraction 
+## Chapter 12: Automatic Feature Extraction 
      Motivation
      Automatic FE with TensorFlow
      Deep & Cross Network Structure
