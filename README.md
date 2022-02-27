@@ -148,7 +148,7 @@ IG : @deepdatascientists
 ## Chapter 3: GANS
     StyleGans
 ## Chapter 4: Multi-Armed Bandits
-## Chapter 5: Neural Artitecheral Search
+## Chapter 5: Neural Architectural Search
 ## Chapter 6: Famous vision models:
     Efficient Net
     ViT : Vision transformers
