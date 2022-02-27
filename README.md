@@ -85,7 +85,6 @@ IG : @deepdatascientists
        Mean Absolute Error (MAE)
        Mean Absolute Percentage Error (MAPE)
        Mean Squared Error (MSE)
-       Mean Squared Error (MSE)
        Indicator function
    
   ## Chapter 9: CNN
