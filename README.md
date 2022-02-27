@@ -92,7 +92,7 @@ IG : @deepdatascientists
        Indicator function
    
    
-  ## Chapter 10: Neural Networks, RNN, LSTM, CNN
+  ## Chapter 10: RNN, LSTM, CNN
         CNN
         RNN
         LSTM
