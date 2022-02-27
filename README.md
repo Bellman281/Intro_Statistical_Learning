@@ -52,23 +52,20 @@ IG : @deepdatascientists
 ## Chapter 5 : Unsupervised Learning, PCA
      Unsupervised learning 
      Principal component analysis (PCA)
-   
-## Chapter 6 :  Recommendation Systems
-       Collaborative Filtering
-       Matrix Factorization
-       Funk SVD
-       Alternating Least Square
+     tSNE
+  
       
-## Chapter 7 : EM Algorithm
+## Chapter 6 : EM Algorithm
      Expectation Maximization Algorithm
 
-## Chapter 8 : Clustering
+## Chapter 7 : Clustering
     Clustering
     K means
     Gaussian Mixture Models
     DBSCAN
-    
- ## Chapter 9: NN, Activation and Loss functions 
+
+
+ ## Chapter 8: NN, Activation and Loss functions 
     NN    
         Gradient Decent
         Back Propagation
@@ -91,11 +88,13 @@ IG : @deepdatascientists
        Mean Squared Error (MSE)
        Indicator function
    
-   
-  ## Chapter 10: RNN, LSTM, CNN
-        CNN
+  ## Chapter 9: CNN
+  
+  ## Chapter 10: RNN, LSTM
         RNN
         LSTM
+        GRU
+        Bi-LSTM
    
 ## Chapter 11: Transformers        
        Sequence to sequence models
@@ -127,3 +126,48 @@ IG : @deepdatascientists
         Model construction
      Model understanding for interpreting cross features
      Model Performance
+     
+## Chapter 15: Gaussian Process Regression
+ 
+## Chapter 16 :  Recommendation Systems
+       Collaborative Filtering
+       Matrix Factorization
+       Funk SVD
+       Alternating Least Square
+
+
+
+
+
+====================
+## Advanced Course:
+
+## Chapter 1: Automatic Diffrentiation
+
+## Chapter 2: AutoML
+## Chapter 3: GANS
+    StyleGans
+## Chapter 4: Multi-Armed Bandits
+## Chapter 5: Neural Artitecheral Search
+## Chapter 6: Famous vision models:
+    Efficient Net
+    ViT : Vision transformers
+    YOLO5
+    POSE Detection: BLAZE POSE
+    OCR
+## Chapter 7:Advanced Language models:
+    BERT Families
+    XLM
+    GPT Families
+    T5
+## Chapter 8: NLP down stream Tasks:
+   Classification
+   NER
+   Dialouge State Tracking
+   Topic Detection
+   Event Extraction
+ ## Chapter 9: Speech Processing
+     Tacatron
+     
+ ## Chapter 10: 
+ 
