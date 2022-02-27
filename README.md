@@ -149,7 +149,6 @@ IG : @deepdatascientists
       
  ## Chapter 10: Gaussian Process Regression
 
-
 ## Chapter 11: Automatic Feature Extraction 
      Motivation
      Automatic FE with TensorFlow
