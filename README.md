@@ -113,18 +113,6 @@ IG : @deepdatascientists
            BERT Input
            BERT Output
       
-## Chapter 12: Automatic Feature Extraction 
-     Motivation
-     Automatic FE with TensorFlow
-     Deep & Cross Network Structure
-     Pre Processing
-     Cross Network
-        Deep NN
-        Deep & Cross Network V1
-        Deep & Cross Network V2
-        Model construction
-     Model understanding for interpreting cross features
-     Model Performance
      
 
 
@@ -161,3 +149,16 @@ IG : @deepdatascientists
       
  ## Chapter 10: Gaussian Process Regression
 
+
+## Chapter 11: Automatic Feature Extraction 
+     Motivation
+     Automatic FE with TensorFlow
+     Deep & Cross Network Structure
+     Pre Processing
+     Cross Network
+        Deep NN
+        Deep & Cross Network V1
+        Deep & Cross Network V2
+        Model construction
+     Model understanding for interpreting cross features
+     Model Performance
