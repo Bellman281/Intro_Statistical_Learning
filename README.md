@@ -157,13 +157,14 @@ IG : @deepdatascientists
     GPT Families
     T5
 ## Chapter 8: NLP down stream Tasks:
-     Classification
-     NER
-     Dialouge State Tracking
+     Sentence Classification
+     Token Classification
      Topic Detection
      Event Extraction
      Question Answering
-     
+     Summarization
+     Dialouge State Tracking
+    
  ## Chapter 9: Speech Processing
      Tacatron
  
