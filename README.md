@@ -123,33 +123,44 @@ IG : @deepdatascientists
 ## Chapter 1: Automatic Diffrentiation
 
 ## Chapter 2: AutoML
+            
 ## Chapter 3: GANS
-    StyleGans
+    StyleGANs 2,3
+    
 ## Chapter 4: Multi-Armed Bandits
+       epsilon Gridy
+       UPC
 ## Chapter 5: Neural Architectural Search
+           Model Architectural Search
+           
 ## Chapter 6: Famous vision models:
     Efficient Net
     ViT : Vision transformers
     YOLO5
     POSE Detection: BLAZE POSE
     OCR
+    
 ## Chapter 7:Advanced Language models:
     BERT Families
     XLM
     GPT Families
     T5
 ## Chapter 8: NLP down stream Tasks:
-   Classification
-   NER
-   Dialouge State Tracking
-   Topic Detection
-   Event Extraction
+     Classification
+     NER
+     Dialouge State Tracking
+     Topic Detection
+     Event Extraction
+     Question Answering
+     
  ## Chapter 9: Speech Processing
      Tacatron
-      
- ## Chapter 10: Gaussian Process Regression
+ 
+ ## Chapter 10: Multi- Modal Models
+ 
+ ## Chapter 11: Gaussian Process Regression
 
-## Chapter 11: Automatic Feature Extraction 
+## Chapter 12: Automatic Feature Extraction 
      Motivation
      Automatic FE with TensorFlow
      Deep & Cross Network Structure
