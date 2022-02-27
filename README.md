@@ -42,13 +42,13 @@ IG : @deepdatascientists
     Ridge regression
     Bias-variance tradeoff
     Pros and cons of ridge regression
-    
- ## Chapter 4  : Bayesian Estimation, MAP
-        Likelihood and posterior distribution
-           Computing the posterior
-        Maximum a posteriori (MAP)
-        Bayesian linear regression
  
+## Chapter 4 :  Recommendation Systems
+       Collaborative Filtering
+       Matrix Factorization
+       Funk SVD
+       Alternating Least Square
+       
 ## Chapter 5 : Unsupervised Learning, PCA
      Unsupervised learning 
      Principal component analysis (PCA)
@@ -127,15 +127,6 @@ IG : @deepdatascientists
      Model understanding for interpreting cross features
      Model Performance
      
-## Chapter 15: Gaussian Process Regression
- 
-## Chapter 16 :  Recommendation Systems
-       Collaborative Filtering
-       Matrix Factorization
-       Funk SVD
-       Alternating Least Square
-
-
 
 
 
@@ -168,6 +159,6 @@ IG : @deepdatascientists
    Event Extraction
  ## Chapter 9: Speech Processing
      Tacatron
-     
- ## Chapter 10: 
- 
+      
+ ## Chapter 10: Gaussian Process Regression
+
