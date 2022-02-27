@@ -46,10 +46,7 @@ IG : @deepdatascientists
  ## Chapter 4  : Bayesian Estimation, MAP
         Likelihood and posterior distribution
            Computing the posterior
-           Maximum likelihood estimation (MLE)
-        Maximum a posteriori (MAP) estimation
-           Posterior mean
-           MAP properties
+        Maximum a posteriori (MAP)
         Bayesian linear regression
  
 ## Chapter 5 : Unsupervised Learning, PCA
@@ -69,8 +66,12 @@ IG : @deepdatascientists
     Clustering
     K means
     Gaussian Mixture Models
+    DBSCAN
     
- ## Chapter 9: Activation and Loss functions 
+ ## Chapter 9: NN, Activation and Loss functions 
+    NN    
+        Gradient Decent
+        Back Propagation
     Activation Functions
         Exponential Linear Unit (ELU)
         Exponential activation function
@@ -92,8 +93,6 @@ IG : @deepdatascientists
    
    
   ## Chapter 10: Neural Networks, RNN, LSTM, CNN
-        Gradient Decent
-        Back Propagation
         CNN
         RNN
         LSTM
