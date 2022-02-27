@@ -94,8 +94,19 @@ IG : @deepdatascientists
         LSTM
         GRU
         Bi-LSTM
-   
-## Chapter 11: Transformers        
+    
+## Chapter 11: Language Models and Tokenisation:
+           LMs   
+              Word2vec
+              Glove
+              Fast Text
+           tokenenisation: 
+              Word Embeddings
+              Character Embeddings
+              Word Piece
+              BPE
+              
+## Chapter 12: Transformers        
        Sequence to sequence models
        Attention Mechanism
           Bottleneck Problem
