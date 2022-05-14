@@ -17,14 +17,14 @@ LinkedIn: https://www.linkedin.com/in/omidsafarzadeh/
 
 IG : @deepdatascientists
 
-## Chapter 1 : Learning Algorithms
+## Chapter 1 : Learning Algorithms Overview
     Supervised learning
     Unsupervised learning
     Semi-Supervised learning
     Online Learning
     Reinforcement Learning
     Graph Representation Learning
-    
+    Knowledge Distillation (Teacher/Student Learning)   
     
 ## Chapter 2 : Regression, Cross-Validation
     Regression
@@ -35,7 +35,7 @@ IG : @deepdatascientists
     Leave-one-out cross-validation
     k-fold cross validation
 
-## Chapter 3 : Logistic , Ridge, Lasso Regression
+## Chapter 3 : Logistic, Ridge, Lasso Regression
     logistic regression
         MLE for simple logistic regression 
     Regularization
@@ -53,7 +53,6 @@ IG : @deepdatascientists
      Unsupervised learning 
      Principal component analysis (PCA)
      tSNE
-  
       
 ## Chapter 6 : EM Algorithm
      Expectation Maximization Algorithm
@@ -64,7 +63,8 @@ IG : @deepdatascientists
     Gaussian Mixture Models
     DBSCAN
 
-
+ ## TENSOFRLOW & KERAS Sessions
+ 
  ## Chapter 8: NN, Activation and Loss functions 
     NN    
         Gradient Decent
@@ -86,8 +86,10 @@ IG : @deepdatascientists
        Mean Absolute Percentage Error (MAPE)
        Mean Squared Error (MSE)
        Indicator function
-   
-  ## Chapter 9: CNN
+  
+  ## Chapter 9: CNN:
+      Kernels, Stride, Padding, Pooling
+      Conv2D,Conv1D
   
   ## Chapter 10: RNN, LSTM
         RNN
@@ -119,12 +121,13 @@ IG : @deepdatascientists
            Decoder Architecture
            Full Architecture
        Positional Encoding
+
+## Chapter 13: Large Language Models
        BERT
            Language Masked Learning
            BERT Input
            BERT Output
-      
-     
+       GPT3
 
 
 
