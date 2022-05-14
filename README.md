@@ -129,7 +129,9 @@ IG : @deepdatascientists
            BERT Output
        GPT3
 
-
+### Colabs for the course:
+ Kwnoledge Distillation:
+https://colab.research.google.com/drive/1TMJ8OWnZzMX-TE0zHD9XgEMl-h3dRFKK?usp=sharing
 
 ====================
 ## Advanced Course:
